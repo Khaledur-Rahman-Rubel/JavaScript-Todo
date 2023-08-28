@@ -1,9 +1,7 @@
 //find the element
 
-const container = document.querySelector(".container");
 const todoForm = document.querySelector(".todo-form");
 const inputTodo = document.querySelector("#inputTodo");
-const addTodoButton = document.querySelector("#addTodoButtoncontainer");
 const todoList = document.querySelector("#lists");
 const messageElement = document.querySelector("#message");
 
